@@ -7,7 +7,7 @@ public class Inheritance {
 }
 class Subash {
         String name="Atom";
-        int age=18;
+        int age=25;
 
         Subash(){
             System.out.println("I am learning");
